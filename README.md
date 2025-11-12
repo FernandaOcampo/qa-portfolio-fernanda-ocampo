@@ -21,6 +21,7 @@ Currently, I’m expanding my knowledge in **test automation** with **Selenium, 
 - **Techniques:** Equivalence partitioning, boundary value analysis  
 - **Deliverables:** Test cases, bug reports, screenshots of issues  
 - **Outcome:** Detected and documented 10+ functional bugs with clear reproduction steps.
+- (https://docs.google.com/spreadsheets/d/1Dad8pcSg-Nus80Ag59Z8aAoS9fViglp8/edit?gid=1168870724#gid=1168870724) 
 
 ---
 
@@ -31,6 +32,7 @@ Currently, I’m expanding my knowledge in **test automation** with **Selenium, 
   - Tested GET, POST, PUT, and DELETE requests  
   - Validated JSON responses and HTTP status codes  
 - **Outcome:** Ensured correct data handling and improved endpoint documentation.
+- (https://docs.google.com/document/d/10PUYkyutVl2bmsLYjqhjItqdC7wqr-ZS/edit)
 
 ---
 
@@ -39,6 +41,7 @@ Currently, I’m expanding my knowledge in **test automation** with **Selenium, 
 - **Tools:** Jira (Kanban board), Google Sheets, GitHub  
 - **Tasks:** Created and tracked issues, participated in sprint reviews, ensured bug traceability.  
 - **Outcome:** Delivered all test cases on time with consistent documentation and feedback loops.
+- (https://docs.google.com/spreadsheets/d/1T2WM9_GBdCfHYIaCOuW3BCzEvU9ucrwu/edit?gid=382892057#gid=382892057)
 
 ---
 
