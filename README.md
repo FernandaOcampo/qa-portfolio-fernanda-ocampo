@@ -68,7 +68,7 @@ Currently, I’m expanding my knowledge in **test automation** with **Selenium, 
 ## 📫 Contact
 
 📧 **Email:** fernandacadena13@hotmail.com  
-🔗 **LinkedIn:** (www.linkedin.com/in/ma-fernanda-ocampo-cadena-010b09214)  
+🔗 **LinkedIn:** (www.linkedin.com/in/ma-fernanda-ocampo-cadena)  
 
 
 ---
